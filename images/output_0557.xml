@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>output_0557.png</filename>
+	<path>/home/g0d3lett/Documents/FNP/frames/output_0557.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>288</ymin>
+			<xmax>402</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>
